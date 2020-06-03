@@ -53,6 +53,10 @@
 
 
   fetch/pull{remote,orgin}
-  $ git pull 
+  $ git pull
+
+  go to direct to desktop in windows from git bash
+  cd ~/Desktop
+
 
   edit
