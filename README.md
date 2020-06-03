@@ -9,3 +9,6 @@
   8. Narigos
    
   For CI/CD intergration
+
+  Git: Difference
+  git diff brach1..branch2
