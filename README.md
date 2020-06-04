@@ -13,7 +13,7 @@
   command for the git intergration
   Git:Configrations
    $ git config --global user.name "deepankar19"
-   $ git config --global user.email "xxxxxxxxxx@gmail.com"
+   $ git config --global user.email "deepankardey12@gmail.com"
    $ git config --list
 
   Git: starting a repository
@@ -55,4 +55,4 @@
   fetch/pull{remote,orgin}
   $ git pull 
 
-
+  edit
