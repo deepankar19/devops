@@ -50,7 +50,9 @@
 
   Git:upload
   $ git push -u origin <branch-name>
-
+ 
+  git difference
+  git diff branch1..branch2
 
   fetch/pull{remote,orgin}
   $ git pull
@@ -58,5 +60,3 @@
   go to direct to desktop in windows from git bash
   cd ~/Desktop
 
-
-  edit
