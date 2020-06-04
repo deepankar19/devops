@@ -13,7 +13,7 @@
   command for the git intergration
   Git:Configrations
    $ git config --global user.name "deepankar19"
-   $ git config --global user.email "deepankardey12@gmail.com"
+   $ git config --global user.email "xxxxxxxxxxxx@gmail.com"
    $ git config --list
 
   Git: starting a repository
@@ -50,9 +50,13 @@
 
   Git:upload
   $ git push -u origin <branch-name>
-
+ 
+  git difference
+  git diff branch1..branch2
 
   fetch/pull{remote,orgin}
-  $ git pull 
+  $ git pull
 
-  edit
+  go to direct to desktop in windows from git bash
+  cd ~/Desktop
+
