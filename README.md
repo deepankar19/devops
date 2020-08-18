@@ -8,7 +8,7 @@
   7. Kubernetes
   8. Narigos
    
-  For CI/CD intergration
+ #For CI/CD intergration
 
   command for the git intergration
   Git:Configrations
@@ -57,6 +57,16 @@
   fetch/pull{remote,orgin}
   $ git pull
 
-  go to direct to desktop in windows from git bash
+ #go to direct to desktop in windows from git bash
   cd ~/Desktop
 
+
+##########################################################33
+##command for kubernetes install and cluster setup
+sudo su
+
+## for Master machine
+curl -s https://github.com/deepankar19/devops/blob/master/kuberentes-centos-7-master.sh | sh -s
+
+##for worker node
+curl -s https://github.com/deepankar19/devops/blob/master/kuberentes-centos-7.sh | sh -s
