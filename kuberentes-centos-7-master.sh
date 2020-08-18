@@ -83,7 +83,7 @@ systemctl restart kubelet
 # Install nfs utils for Kubernetes NFS driver
 yum -y install nfs-utils
 
-curl E:\deepankar.amazon.data\kubeadm-config.yaml -o kubeadm-config.yaml
+curl https://github.com/deepankar19/devops/blob/master/kubeadm-config.yaml -o kubeadm-config.yaml
 # update the file as necessary and then run below
 kubeadm init --config kubeadm-config.yaml
 
